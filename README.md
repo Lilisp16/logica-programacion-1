@@ -15,7 +15,7 @@ Entradas:
 Salida:
 4, 4, 2.
 2, 4, 4.
-Entradas: 
+Entradas:
 2, 4, 4.
 Salida:
 4, 4, 2.
@@ -26,4 +26,4 @@ Colócalo en un repositorio llamado “logica-programacion-1”
 sugerencias:
 Recuerda convertir a number el valor solicitado por prompt y verificar que sea un número para evitar errores en tu programa.
 Recuerda que para mostrar mensajes por consola o por el DOM, debes crear un archivo HTML y enlazar tu script.
-Piensa en las posibles combinaciones de números, para ayudarte puedes desarrollar un algoritmo y el pseudocódigo. 
+Piensa en las posibles combinaciones de números, para ayudarte puedes desarrollar un algoritmo y el pseudocódigo.
