@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Lenguaje-JavaScript-yellow?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Estado-Finalizado-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Autor-Lilisp16-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Autor-Lilis-blueviolet?style=for-the-badge" />
 </p>
 
 ---
